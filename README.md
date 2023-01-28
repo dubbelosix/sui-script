@@ -11,8 +11,9 @@ virtualenv -p python3 .venv
 ## python deps
 ```
 (.venv) dubbelosix@warsong sui-script % pip install -r requirements.txt
-## run
+```
 
+## run
 ```
 (.venv) dubbelosix@warsong sui-script % ADDR=0xaa10cfd6e38c4cf3ea1f7a99bd7c75b0a3d3f4c8 python main.py 
 pending validator self stake: 2290624339 MIST
